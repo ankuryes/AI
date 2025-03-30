@@ -58,3 +58,6 @@ The script must be 3,000–4,000 words (strict minimum of 3,000 words).
 Final Reminder:
 The script must feel personal, supernatural, and emotionally charged, leaving viewers compelled to comment without hesitation. Ensure it creates a sense of urgency and divine significance.
 '''
+
+
+api_key = b'gAAAAABn6QB1oeOQLt_jl4uFQWEvcBE1wRU8zcyyCnrTgPk10XDGI4kZ-F_LmJzwq5KqKt9X1DRNz9FxypC5Qx5WCsc1g6Uxau1SndkxYqeNaxtONNpuHQJ6Lvd0Mm_CuRgeAhtCOsIZISN7PeCGr2kG-nJv73RCkXLs6A4Zbd6mO01qIxke9zh2OvXrZAfk3yZxJw1vG9dkuPGHG75hbtSAapST46yApC905dUxLHipxmk0PD3RRp9aXoPH2ocjHfpZ5JsMm23EjCrQoPv1jdtcw4vVoBzC09bjc0kxLh4sOLLr5gqBb5A='
